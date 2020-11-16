@@ -1,2 +1,2 @@
 # qrcode
-barcode scanner
+barcode scanner edited from Mikhmon
